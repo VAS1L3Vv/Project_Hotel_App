@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\terex\OneDrive\Документы\Курсовая1\Debug\Курсовая1.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\terex\OneDrive\Документы\Курсовая1\Form1.resx</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\terex\OneDrive\Документы\Курсовая1\Form1.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\terex\OneDrive\Документы\Курсовая1\Debug\Курсовая1.Form1.resources</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

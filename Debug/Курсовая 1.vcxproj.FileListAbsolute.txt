@@ -1,0 +1,7 @@
+C:\Users\terex\OneDrive\Документы\Курсовая1\Debug\Курсовая 1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\terex\OneDrive\Документы\Курсовая1\Debug\Курсовая1.Form1.resources
+C:\Users\terex\OneDrive\Документы\Курсовая1\Debug\Курсовая 1.vcxproj.GenerateResource.cache
+C:\Users\terex\OneDrive\Документы\Курсовая1\Debug\Form1.resx
+C:\Users\terex\OneDrive\Документы\Курсовая1\Debug\Form1.h
+C:\Users\terex\OneDrive\Документы\Курсовая1\Debug\Курсовая1.exe
+C:\Users\terex\OneDrive\Документы\Курсовая1\Debug\Курсовая 1.vcxproj.AssemblyReference.cache

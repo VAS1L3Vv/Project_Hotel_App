@@ -1,0 +1,7 @@
+C:\Users\terex\OneDrive\Документы\Курсовая 1\x64\Debug\Курсовая 1.vcxproj.AssemblyReference.cache
+C:\Users\terex\OneDrive\Документы\Курсовая 1\x64\Debug\Курсовая 1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\terex\OneDrive\Документы\Курсовая 1\x64\Debug\Курсовая 1.exe
+C:\Users\terex\OneDrive\Документы\Курсовая 1\x64\Debug\Курсовая 1.vcxproj.GenerateResource.cache
+C:\Users\terex\OneDrive\Документы\Курсовая 1\x64\Debug\Курсовая1.Журнал.resources
+C:\Users\terex\OneDrive\Документы\Курсовая 1\x64\Debug\Журнал.resx
+C:\Users\terex\OneDrive\Документы\Курсовая 1\x64\Debug\Журнал.h

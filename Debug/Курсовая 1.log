@@ -1,0 +1,658 @@
+﻿  Журнал.cpp
+C:\Users\terex\OneDrive\Документы\Курсовая1\Form1.h(985,36): warning C4101: error: неиспользованная локальная переменная
+C:\Users\terex\OneDrive\Документы\Курсовая1\Form1.h(996,28): warning C4101: error: неиспользованная локальная переменная
+  Запуск 1-го прохода
+  Обработан параметр /DEFAULTLIB:msvcprtd
+  Обработан параметр /DEFAULTLIB:uuid.lib
+  Обработан параметр /DEFAULTLIB:MSVCRTD
+  Обработан параметр /DEFAULTLIB:OLDNAMES
+  Обработан параметр /DEFAULTLIB:MSVCMRTD.LIB
+  Обработан параметр /DEFAULTLIB:MSCOREE
+  Журнал.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Вызов LINK.EXE:
+  
+  Запуск 1-го прохода
+  Обработан параметр /DEFAULTLIB:msvcprtd
+  Обработан параметр /DEFAULTLIB:uuid.lib
+  Обработан параметр /DEFAULTLIB:MSVCRTD
+  Обработан параметр /DEFAULTLIB:OLDNAMES
+  Обработан параметр /DEFAULTLIB:MSVCMRTD.LIB
+  Обработан параметр /DEFAULTLIB:MSCOREE
+   /ERRORREPORT:PROMPT @C:\Users\terex\AppData\Local\Temp\tmp65475597c36a4e9cb444bb44fb06d07a.rsp
+   /nologo
+   /incremental:no
+   /fullbuild
+  
+  Поиск библиотек
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\msvcprtd.lib:
+      Поиск C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x86\uuid.lib:
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\MSVCRTD.lib:
+        Найден __fltused
+          Имеются ссылки в Журнал.obj
+          Загружен MSVCRTD.lib(fltused.obj)
+        Найден _WinMainCRTStartup
+          Загружен MSVCRTD.lib(exe_winmain.obj)
+        Найден _atexit
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Загружен MSVCRTD.lib(utility.obj)
+        Найден ___security_init_cookie
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Загружен MSVCRTD.lib(gs_support.obj)
+        Найден __matherr
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Загружен MSVCRTD.lib(matherr.obj)
+        Найден __get_startup_argv_mode
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Имеются ссылки в MSVCRTD.lib(utility.obj)
+          Загружен MSVCRTD.lib(argv_mode.obj)
+        Найден __get_startup_commit_mode
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Загружен MSVCRTD.lib(commit_mode.obj)
+        Найден __get_startup_file_mode
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Загружен MSVCRTD.lib(file_mode.obj)
+        Найден __get_startup_new_mode
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Загружен MSVCRTD.lib(new_mode.obj)
+        Найден __get_startup_thread_locale_mode
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Загружен MSVCRTD.lib(thread_locale.obj)
+        Найден "void __cdecl __scrt_initialize_type_info(void)" (?__scrt_initialize_type_info@@YAXXZ)
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Загружен MSVCRTD.lib(tncleanup.obj)
+        Найден __should_initialize_environment
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Загружен MSVCRTD.lib(env_mode.obj)
+        Найден __initialize_default_precision
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Загружен MSVCRTD.lib(default_precision.obj)
+        Найден __initialize_invalid_parameter_handler
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Загружен MSVCRTD.lib(invalid_parameter_handler.obj)
+        Найден __initialize_denormal_control
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Загружен MSVCRTD.lib(denormal_control.obj)
+        Найден ___scrt_initialize_default_local_stdio_options
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Загружен MSVCRTD.lib(default_local_stdio_options.obj)
+        Найден ___scrt_is_user_matherr_present
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Загружен MSVCRTD.lib(matherr_detection.obj)
+        Найден ___scrt_get_dyn_tls_init_callback
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Загружен MSVCRTD.lib(dyn_tls_init.obj)
+        Найден ___scrt_get_dyn_tls_dtor_callback
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Загружен MSVCRTD.lib(dyn_tls_dtor.obj)
+        Найден ___scrt_get_show_window_mode
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Загружен MSVCRTD.lib(utility_desktop.obj)
+        Найден __RTC_Initialize
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Загружен MSVCRTD.lib(initsect.obj)
+        Найден __except_handler4
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Имеются ссылки в MSVCRTD.lib(utility.obj)
+          Загружен MSVCRTD.lib(chandler4gs.obj)
+        Найден ___xi_a
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Загружен MSVCRTD.lib(initializers.obj)
+  Обработан параметр /DEFAULTLIB:kernel32.lib
+   Обработан /DISALLOWLIB:msvcrt.lib
+   Обработан /DISALLOWLIB:libcmt.lib
+   Обработан /DISALLOWLIB:libcmtd.lib
+   Обработан /DISALLOWLIB:vcruntime.lib
+  Обработан параметр /DEFAULTLIB:vcruntimed.lib
+   Обработан /DISALLOWLIB:libvcruntime.lib
+   Обработан /DISALLOWLIB:libvcruntimed.lib
+   Обработан /DISALLOWLIB:ucrt.lib
+  Обработан параметр /DEFAULTLIB:ucrtd.lib
+   Обработан /DISALLOWLIB:libucrt.lib
+   Обработан /DISALLOWLIB:libucrtd.lib
+        Найден ___guard_check_icall_fptr
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Имеются ссылки в MSVCRTD.lib(utility.obj)
+          Имеются ссылки в MSVCRTD.lib(initsect.obj)
+          Загружен MSVCRTD.lib(guard_support.obj)
+        Найден ___security_cookie
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Имеются ссылки в MSVCRTD.lib(utility.obj)
+          Имеются ссылки в MSVCRTD.lib(gs_support.obj)
+          Имеются ссылки в MSVCRTD.lib(chandler4gs.obj)
+          Загружен MSVCRTD.lib(gs_cookie.obj)
+        Найден ___isa_available_init
+          Имеются ссылки в MSVCRTD.lib(utility.obj)
+          Загружен MSVCRTD.lib(cpu_disp.obj)
+        Найден ___scrt_is_ucrt_dll_in_use
+          Имеются ссылки в MSVCRTD.lib(utility.obj)
+          Загружен MSVCRTD.lib(ucrt_detection.obj)
+        Найден @__security_check_cookie@4
+          Имеются ссылки в MSVCRTD.lib(chandler4gs.obj)
+          Имеются ссылки в MSVCRTD.lib(cpu_disp.obj)
+          Загружен MSVCRTD.lib(secchk.obj)
+        Найден ___report_gsfailure
+          Имеются ссылки в MSVCRTD.lib(secchk.obj)
+          Загружен MSVCRTD.lib(gs_report.obj)
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\OLDNAMES.lib:
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\MSVCMRTD.LIB:
+        Найден "?.cctor@@$$FYMXXZ" (?.cctor@@$$FYMXXZ)
+          Имеются ссылки в Журнал.obj
+          Имеются ссылки в .NETFramework,Version=v4.7.2.AssemblyAttributes.obj
+          Загружен MSVCMRTD.LIB(mstartup.obj)
+        Найден "extern "C" void __clrcall _app_exit_callback(void)" (?_app_exit_callback@@$$J0YMXXZ)
+          Имеются ссылки в MSVCMRTD.LIB(mstartup.obj)
+          Загружен MSVCMRTD.LIB(msilexit.obj)
+        Найден "void __clrcall _initterm_m(void const * (__clrcall*const *)(void),void const * (__clrcall*const *)(void))" (?_initterm_m@@$$FYMXPBQ6MPBXXZ0@Z)
+          Имеются ссылки в MSVCMRTD.LIB(mstartup.obj)
+          Загружен MSVCMRTD.LIB(pureMSILcode.obj)
+        Найден "extern "C" void __clrcall ___CxxCallUnwindDtor(void (__clrcall*)(void *),void *)" (?___CxxCallUnwindDtor@@$$J0YMXP6MXPAX@Z0@Z)
+          Имеются ссылки в MSVCMRTD.LIB(mstartup.obj)
+          Загружен MSVCMRTD.LIB(managdeh.obj)
+      Поиск C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x86\MSCOREE.lib:
+      Поиск C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x86\kernel32.lib:
+        Найден __imp__QueryPerformanceCounter@4
+          Имеются ссылки в MSVCRTD.lib(gs_support.obj)
+          Загружен kernel32.lib(KERNEL32.dll)
+        Найден __imp__GetCurrentProcessId@0
+          Имеются ссылки в MSVCRTD.lib(gs_support.obj)
+          Загружен kernel32.lib(KERNEL32.dll)
+        Найден __imp__GetCurrentThreadId@0
+          Имеются ссылки в MSVCRTD.lib(gs_support.obj)
+          Загружен kernel32.lib(KERNEL32.dll)
+        Найден __imp__GetSystemTimeAsFileTime@4
+          Имеются ссылки в MSVCRTD.lib(gs_support.obj)
+          Загружен kernel32.lib(KERNEL32.dll)
+        Найден __imp__InitializeSListHead@4
+          Имеются ссылки в MSVCRTD.lib(tncleanup.obj)
+          Загружен kernel32.lib(KERNEL32.dll)
+        Найден __imp__IsDebuggerPresent@0
+          Имеются ссылки в MSVCRTD.lib(utility_desktop.obj)
+          Загружен kernel32.lib(KERNEL32.dll)
+        Найден __imp__UnhandledExceptionFilter@4
+          Имеются ссылки в MSVCRTD.lib(utility_desktop.obj)
+          Имеются ссылки в MSVCRTD.lib(gs_report.obj)
+          Загружен kernel32.lib(KERNEL32.dll)
+        Найден __imp__SetUnhandledExceptionFilter@4
+          Имеются ссылки в MSVCRTD.lib(utility_desktop.obj)
+          Имеются ссылки в MSVCRTD.lib(gs_report.obj)
+          Загружен kernel32.lib(KERNEL32.dll)
+        Найден __imp__GetStartupInfoW@4
+          Имеются ссылки в MSVCRTD.lib(utility_desktop.obj)
+          Загружен kernel32.lib(KERNEL32.dll)
+        Найден __imp__IsProcessorFeaturePresent@4
+          Имеются ссылки в MSVCRTD.lib(utility_desktop.obj)
+          Имеются ссылки в MSVCRTD.lib(cpu_disp.obj)
+          Имеются ссылки в MSVCRTD.lib(gs_report.obj)
+          Загружен kernel32.lib(KERNEL32.dll)
+        Найден __imp__GetModuleHandleW@4
+          Имеются ссылки в MSVCRTD.lib(utility_desktop.obj)
+          Загружен kernel32.lib(KERNEL32.dll)
+        Найден __imp__GetCurrentProcess@0
+          Имеются ссылки в MSVCRTD.lib(gs_report.obj)
+          Загружен kernel32.lib(KERNEL32.dll)
+        Найден __imp__TerminateProcess@8
+          Имеются ссылки в MSVCRTD.lib(gs_report.obj)
+          Загружен kernel32.lib(KERNEL32.dll)
+        Найден __IMPORT_DESCRIPTOR_KERNEL32
+          Имеются ссылки в kernel32.lib(KERNEL32.dll)
+          Имеются ссылки в kernel32.lib(KERNEL32.dll)
+          Имеются ссылки в kernel32.lib(KERNEL32.dll)
+          Имеются ссылки в kernel32.lib(KERNEL32.dll)
+          Имеются ссылки в kernel32.lib(KERNEL32.dll)
+          Имеются ссылки в kernel32.lib(KERNEL32.dll)
+          Имеются ссылки в kernel32.lib(KERNEL32.dll)
+          Имеются ссылки в kernel32.lib(KERNEL32.dll)
+          Имеются ссылки в kernel32.lib(KERNEL32.dll)
+          Имеются ссылки в kernel32.lib(KERNEL32.dll)
+          Имеются ссылки в kernel32.lib(KERNEL32.dll)
+          Имеются ссылки в kernel32.lib(KERNEL32.dll)
+          Имеются ссылки в kernel32.lib(KERNEL32.dll)
+          Загружен kernel32.lib(KERNEL32.dll)
+        Найден __NULL_IMPORT_DESCRIPTOR
+          Имеются ссылки в kernel32.lib(KERNEL32.dll)
+          Загружен kernel32.lib(KERNEL32.dll)
+        Найден KERNEL32_NULL_THUNK_DATA
+          Имеются ссылки в kernel32.lib(KERNEL32.dll)
+          Загружен kernel32.lib(KERNEL32.dll)
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\vcruntimed.lib:
+        Найден ___std_type_info_destroy_list
+          Имеются ссылки в MSVCRTD.lib(tncleanup.obj)
+          Загружен vcruntimed.lib(VCRUNTIME140D.dll)
+        Найден ___current_exception
+          Имеются ссылки в MSVCRTD.lib(utility_desktop.obj)
+          Загружен vcruntimed.lib(VCRUNTIME140D.dll)
+        Найден ___current_exception_context
+          Имеются ссылки в MSVCRTD.lib(utility_desktop.obj)
+          Загружен vcruntimed.lib(VCRUNTIME140D.dll)
+        Найден _memset
+          Имеются ссылки в MSVCRTD.lib(utility_desktop.obj)
+          Загружен vcruntimed.lib(VCRUNTIME140D.dll)
+        Найден __except_handler4_common
+          Имеются ссылки в MSVCRTD.lib(chandler4gs.obj)
+          Загружен vcruntimed.lib(VCRUNTIME140D.dll)
+        Найден __IMPORT_DESCRIPTOR_VCRUNTIME140D
+          Имеются ссылки в vcruntimed.lib(VCRUNTIME140D.dll)
+          Имеются ссылки в vcruntimed.lib(VCRUNTIME140D.dll)
+          Имеются ссылки в vcruntimed.lib(VCRUNTIME140D.dll)
+          Имеются ссылки в vcruntimed.lib(VCRUNTIME140D.dll)
+          Имеются ссылки в vcruntimed.lib(VCRUNTIME140D.dll)
+          Загружен vcruntimed.lib(VCRUNTIME140D.dll)
+        Найден VCRUNTIME140D_NULL_THUNK_DATA
+          Имеются ссылки в vcruntimed.lib(VCRUNTIME140D.dll)
+          Загружен vcruntimed.lib(VCRUNTIME140D.dll)
+      Поиск C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\ucrt\x86\ucrtd.lib:
+        Найден __seh_filter_exe
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Загружен ucrtd.lib(ucrtbased.dll)
+        Найден __set_app_type
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Загружен ucrtd.lib(ucrtbased.dll)
+        Найден ___setusermatherr
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Загружен ucrtd.lib(ucrtbased.dll)
+        Найден __configure_narrow_argv
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Имеются ссылки в MSVCRTD.lib(utility.obj)
+          Загружен ucrtd.lib(ucrtbased.dll)
+        Найден __initialize_narrow_environment
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Имеются ссылки в MSVCRTD.lib(utility.obj)
+          Загружен ucrtd.lib(ucrtbased.dll)
+        Найден __get_narrow_winmain_command_line
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Загружен ucrtd.lib(ucrtbased.dll)
+        Найден __initterm
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Загружен ucrtd.lib(ucrtbased.dll)
+        Найден __initterm_e
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Загружен ucrtd.lib(ucrtbased.dll)
+        Найден _exit
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Загружен ucrtd.lib(ucrtbased.dll)
+        Найден __exit
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Загружен ucrtd.lib(ucrtbased.dll)
+        Найден __set_fmode
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Загружен ucrtd.lib(ucrtbased.dll)
+        Найден __cexit
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Имеются ссылки в MSVCRTD.lib(utility.obj)
+          Загружен ucrtd.lib(ucrtbased.dll)
+        Найден __c_exit
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Загружен ucrtd.lib(ucrtbased.dll)
+        Найден __register_thread_local_exe_atexit_callback
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Загружен ucrtd.lib(ucrtbased.dll)
+        Найден __configthreadlocale
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Загружен ucrtd.lib(ucrtbased.dll)
+        Найден __set_new_mode
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Загружен ucrtd.lib(ucrtbased.dll)
+        Найден ___p__commode
+          Имеются ссылки в MSVCRTD.lib(exe_winmain.obj)
+          Загружен ucrtd.lib(ucrtbased.dll)
+        Найден __seh_filter_dll
+          Имеются ссылки в MSVCRTD.lib(utility.obj)
+          Загружен ucrtd.lib(ucrtbased.dll)
+        Найден __initialize_onexit_table
+          Имеются ссылки в MSVCRTD.lib(utility.obj)
+          Загружен ucrtd.lib(ucrtbased.dll)
+        Найден __register_onexit_function
+          Имеются ссылки в MSVCRTD.lib(utility.obj)
+          Загружен ucrtd.lib(ucrtbased.dll)
+        Найден __execute_onexit_table
+          Имеются ссылки в MSVCRTD.lib(utility.obj)
+          Загружен ucrtd.lib(ucrtbased.dll)
+        Найден __crt_atexit
+          Имеются ссылки в MSVCRTD.lib(utility.obj)
+          Загружен ucrtd.lib(ucrtbased.dll)
+        Найден __crt_at_quick_exit
+          Имеются ссылки в MSVCRTD.lib(utility.obj)
+          Загружен ucrtd.lib(ucrtbased.dll)
+        Найден __controlfp_s
+          Имеются ссылки в MSVCRTD.lib(default_precision.obj)
+          Загружен ucrtd.lib(ucrtbased.dll)
+        Найден _terminate
+          Имеются ссылки в MSVCRTD.lib(utility_desktop.obj)
+          Загружен ucrtd.lib(ucrtbased.dll)
+        Найден __IMPORT_DESCRIPTOR_ucrtbased
+          Имеются ссылки в ucrtd.lib(ucrtbased.dll)
+          Имеются ссылки в ucrtd.lib(ucrtbased.dll)
+          Имеются ссылки в ucrtd.lib(ucrtbased.dll)
+          Имеются ссылки в ucrtd.lib(ucrtbased.dll)
+          Имеются ссылки в ucrtd.lib(ucrtbased.dll)
+          Имеются ссылки в ucrtd.lib(ucrtbased.dll)
+          Имеются ссылки в ucrtd.lib(ucrtbased.dll)
+          Имеются ссылки в ucrtd.lib(ucrtbased.dll)
+          Имеются ссылки в ucrtd.lib(ucrtbased.dll)
+          Имеются ссылки в ucrtd.lib(ucrtbased.dll)
+          Имеются ссылки в ucrtd.lib(ucrtbased.dll)
+          Имеются ссылки в ucrtd.lib(ucrtbased.dll)
+          Имеются ссылки в ucrtd.lib(ucrtbased.dll)
+          Имеются ссылки в ucrtd.lib(ucrtbased.dll)
+          Имеются ссылки в ucrtd.lib(ucrtbased.dll)
+          Имеются ссылки в ucrtd.lib(ucrtbased.dll)
+          Имеются ссылки в ucrtd.lib(ucrtbased.dll)
+          Имеются ссылки в ucrtd.lib(ucrtbased.dll)
+          Имеются ссылки в ucrtd.lib(ucrtbased.dll)
+          Имеются ссылки в ucrtd.lib(ucrtbased.dll)
+          Имеются ссылки в ucrtd.lib(ucrtbased.dll)
+          Имеются ссылки в ucrtd.lib(ucrtbased.dll)
+          Имеются ссылки в ucrtd.lib(ucrtbased.dll)
+          Имеются ссылки в ucrtd.lib(ucrtbased.dll)
+          Имеются ссылки в ucrtd.lib(ucrtbased.dll)
+          Загружен ucrtd.lib(ucrtbased.dll)
+        Найден ucrtbased_NULL_THUNK_DATA
+          Имеются ссылки в ucrtd.lib(ucrtbased.dll)
+          Загружен ucrtd.lib(ucrtbased.dll)
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\msvcprtd.lib:
+      Поиск C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x86\uuid.lib:
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\MSVCRTD.lib:
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\OLDNAMES.lib:
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\MSVCMRTD.LIB:
+      Поиск C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x86\MSCOREE.lib:
+      Поиск C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x86\kernel32.lib:
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\vcruntimed.lib:
+  
+  Поиск библиотек завершен
+  
+  Поиск библиотек
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\msvcprtd.lib:
+      Поиск C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x86\uuid.lib:
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\MSVCRTD.lib:
+        Найден ___scrt_stub_for_acrt_initialize
+          Загружен MSVCRTD.lib(ucrt_stubs.obj)
+        Найден __filter_x86_sse2_floating_point_exception_default
+          Загружен MSVCRTD.lib(x86_exception_filter.obj)
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\OLDNAMES.lib:
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\MSVCMRTD.LIB:
+      Поиск C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x86\MSCOREE.lib:
+      Поиск C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x86\kernel32.lib:
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\vcruntimed.lib:
+      Поиск C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\ucrt\x86\ucrtd.lib:
+  
+  Поиск библиотек завершен
+  
+  Поиск библиотек
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\msvcprtd.lib:
+      Поиск C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x86\uuid.lib:
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\MSVCRTD.lib:
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\OLDNAMES.lib:
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\MSVCMRTD.LIB:
+      Поиск C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x86\MSCOREE.lib:
+      Поиск C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x86\kernel32.lib:
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\vcruntimed.lib:
+      Поиск C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\ucrt\x86\ucrtd.lib:
+  
+  Поиск библиотек завершен
+  
+  Поиск библиотек
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\msvcprtd.lib:
+      Поиск C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x86\uuid.lib:
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\MSVCRTD.lib:
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\OLDNAMES.lib:
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\MSVCMRTD.LIB:
+      Поиск C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x86\MSCOREE.lib:
+      Поиск C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x86\kernel32.lib:
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\vcruntimed.lib:
+      Поиск C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\ucrt\x86\ucrtd.lib:
+  
+  Поиск библиотек завершен
+  
+  1-ый проход завершен
+  
+  Поиск транзакции ___vcrt_initialize->__t2m@___vcrt_initialize
+  Поиск транзакции ___vcrt_uninitialize->__t2m@___vcrt_uninitialize
+  Поиск транзакции ___vcrt_uninitialize_critical->__t2m@___vcrt_uninitialize_critical
+  Поиск транзакции ___vcrt_thread_attach->__t2m@___vcrt_thread_attach
+  Поиск транзакции ___vcrt_thread_detach->__t2m@___vcrt_thread_detach
+  Поиск транзакции __is_c_termination_complete->__t2m@__is_c_termination_complete
+  Поиск транзакции ___acrt_initialize->__t2m@___acrt_initialize
+  Поиск транзакции ___acrt_uninitialize->__t2m@___acrt_uninitialize
+  Поиск транзакции ___acrt_uninitialize_critical->__t2m@___acrt_uninitialize_critical
+  Поиск транзакции ___acrt_thread_attach->__t2m@___acrt_thread_attach
+  Поиск транзакции ___acrt_thread_detach->__t2m@___acrt_thread_detach
+  Поиск транзакции ___scrt_exe_initialize_mta->__t2m@___scrt_exe_initialize_mta
+  Поиск транзакции __filter_x86_sse2_floating_point_exception->__t2m@__filter_x86_sse2_floating_point_exception
+  Поиск транзакции ?DoNothing@DefaultDomain@<CrtImplementationDetails>@@CGJPAX@Z->__t2m@?DoNothing@DefaultDomain@<CrtImplementationDetails>@@CGJPAX@Z
+  Поиск транзакции ?_cexit@@$$J0YAXXZ->__cexit
+  Поиск транзакции ?_UninitializeDefaultDomain@LanguageSupport@<CrtImplementationDetails>@@CGJPAX@Z->__t2m@?_UninitializeDefaultDomain@LanguageSupport@<CrtImplementationDetails>@@CGJPAX@Z
+  Поиск транзакции ?__security_init_cookie@@$$J0YAXXZ->___security_init_cookie
+  Поиск транзакции ?abort@@$$J0YAXXZ->_abort
+  Поиск транзакции ?_getFiberPtrId@@$$FYAPAXXZ->?_getFiberPtrId@@YAPAXXZ
+  Поиск транзакции ?Sleep@@$$J14YGXK@Z->_Sleep@4
+  Поиск транзакции ?__FrameUnwindFilter@@$$J0YAHPAU_EXCEPTION_POINTERS@@@Z->___FrameUnwindFilter
+  
+  Поиск библиотек
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\msvcprtd.lib:
+      Поиск C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x86\uuid.lib:
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\MSVCRTD.lib:
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\OLDNAMES.lib:
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\MSVCMRTD.LIB:
+      Поиск C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x86\MSCOREE.lib:
+      Поиск C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x86\kernel32.lib:
+        Найден _Sleep@4
+          Загружен kernel32.lib(KERNEL32.dll)
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\vcruntimed.lib:
+        Найден ___FrameUnwindFilter
+          Загружен vcruntimed.lib(VCRUNTIME140D.dll)
+      Поиск C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\ucrt\x86\ucrtd.lib:
+        Найден _abort
+          Загружен ucrtd.lib(ucrtbased.dll)
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\msvcprtd.lib:
+      Поиск C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x86\uuid.lib:
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\MSVCRTD.lib:
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\OLDNAMES.lib:
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\MSVCMRTD.LIB:
+      Поиск C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x86\MSCOREE.lib:
+      Поиск C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x86\kernel32.lib:
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\vcruntimed.lib:
+  
+  Поиск библиотек завершен
+  Поиск транзакции ___vcrt_initialize->__t2m@___vcrt_initialize
+  Поиск транзакции ___vcrt_uninitialize->__t2m@___vcrt_uninitialize
+  Поиск транзакции ___vcrt_uninitialize_critical->__t2m@___vcrt_uninitialize_critical
+  Поиск транзакции ___vcrt_thread_attach->__t2m@___vcrt_thread_attach
+  Поиск транзакции ___vcrt_thread_detach->__t2m@___vcrt_thread_detach
+  Поиск транзакции __is_c_termination_complete->__t2m@__is_c_termination_complete
+  Поиск транзакции ___acrt_initialize->__t2m@___acrt_initialize
+  Поиск транзакции ___acrt_uninitialize->__t2m@___acrt_uninitialize
+  Поиск транзакции ___acrt_uninitialize_critical->__t2m@___acrt_uninitialize_critical
+  Поиск транзакции ___acrt_thread_attach->__t2m@___acrt_thread_attach
+  Поиск транзакции ___acrt_thread_detach->__t2m@___acrt_thread_detach
+  Поиск транзакции ___scrt_exe_initialize_mta->__t2m@___scrt_exe_initialize_mta
+  Поиск транзакции __filter_x86_sse2_floating_point_exception->__t2m@__filter_x86_sse2_floating_point_exception
+  Слияние метаданных
+  Завершено слияние метаданных
+  
+  Поиск библиотек
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\msvcprtd.lib:
+      Поиск C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x86\uuid.lib:
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\MSVCRTD.lib:
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\OLDNAMES.lib:
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\MSVCMRTD.LIB:
+      Поиск C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x86\MSCOREE.lib:
+        Найден __CorExeMain@0
+          Загружен MSCOREE.lib(mscoree.dll)
+        Найден __IMPORT_DESCRIPTOR_mscoree
+          Имеются ссылки в MSCOREE.lib(mscoree.dll)
+          Загружен MSCOREE.lib(mscoree.dll)
+        Найден mscoree_NULL_THUNK_DATA
+          Имеются ссылки в MSCOREE.lib(mscoree.dll)
+          Загружен MSCOREE.lib(mscoree.dll)
+      Поиск C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x86\kernel32.lib:
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\vcruntimed.lib:
+      Поиск C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\ucrt\x86\ucrtd.lib:
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\msvcprtd.lib:
+      Поиск C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x86\uuid.lib:
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\MSVCRTD.lib:
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\OLDNAMES.lib:
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\MSVCMRTD.LIB:
+  
+  Поиск библиотек завершен
+  Создание образа ijw/native среды CLR
+  
+  Поиск библиотек
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\msvcprtd.lib:
+      Поиск C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x86\uuid.lib:
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\MSVCRTD.lib:
+        Найден __load_config_used
+          Загружен MSVCRTD.lib(loadcfg.obj)
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\OLDNAMES.lib:
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\MSVCMRTD.LIB:
+      Поиск C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x86\MSCOREE.lib:
+      Поиск C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x86\kernel32.lib:
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\vcruntimed.lib:
+      Поиск C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\ucrt\x86\ucrtd.lib:
+      Поиск C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\msvcprtd.lib:
+      Поиск C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x86\uuid.lib:
+  
+  Поиск библиотек завершен
+  
+  Вызов rc.exe:
+   /v
+   /x
+   /fo
+   "C:\Users\terex\AppData\Local\Temp\lnk{4BB402D8-CAC9-4862-8993-BC34D18D01BC}.tmp"
+   "C:\Users\terex\AppData\Local\Temp\lnk{2D36D874-5519-4A03-A573-EB0F276F1558}.tmp"
+  Microsoft (R) Windows (R) Resource Compiler Version 10.0.10011.16384
+  
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  
+  Creating C:\Users\terex\AppData\Local\Temp\lnk{4BB402D8-CAC9-4862-8993-BC34D18D01BC}.tmp
+  
+  Using codepage 1251 as default
+  
+  C:\Users\terex\AppData\Local\Temp\lnk{2D36D874-5519-4A03-A573-EB0F276F1558}.tmp.
+  Writing 24:1,	lang:0x409,	size 381
+  
+  Вызов cvtres.exe:
+   /machine:x86
+   /verbose
+   /out:"C:\Users\terex\AppData\Local\Temp\lnk{B1278D79-AC99-4C96-A1A0-E3D1C57D25E9}.tmp"
+   /readonly
+   "C:\Users\terex\AppData\Local\Temp\lnk{4BB402D8-CAC9-4862-8993-BC34D18D01BC}.tmp"
+  ╩юэтхЁЄхЁ ЁхёєЁёют Windows т юс·хъЄ√ (Microsoft (R)), тхЁёш  14.30.30706.0
+  (C) ╩юЁяюЁрЎш  ╠рщъЁюёюЇЄ (Microsoft Corp.). ┬ёх яЁртр чр∙ш∙хэ√.
+  
+  фюсртыхэшх ЁхёєЁёр. Єшя: MANIFEST, шь : 1,  ч√ъ: 0x0409, Їыруш: 0x30, ЁрчьхЁ: 381
+  
+  
+  Неиспользуемые библиотеки:
+    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\msvcprtd.lib
+    C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x86\uuid.lib
+    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\OLDNAMES.lib
+  
+  Запуск 2-го прохода
+       * linker generated manifest res *
+       .NETFramework,Version=v4.7.2.AssemblyAttributes.obj
+       Журнал.obj
+       MSVCRTD.lib(gs_cookie.obj)
+       MSVCRTD.lib(gs_report.obj)
+       MSVCRTD.lib(gs_support.obj)
+       MSVCRTD.lib(guard_support.obj)
+       MSVCRTD.lib(loadcfg.obj)
+       MSVCRTD.lib(dyn_tls_dtor.obj)
+       MSVCRTD.lib(dyn_tls_init.obj)
+       MSVCRTD.lib(matherr_detection.obj)
+       MSVCRTD.lib(ucrt_detection.obj)
+       MSVCRTD.lib(cpu_disp.obj)
+       MSVCRTD.lib(chandler4gs.obj)
+       MSVCRTD.lib(secchk.obj)
+       MSVCRTD.lib(argv_mode.obj)
+       MSVCRTD.lib(commit_mode.obj)
+       MSVCRTD.lib(default_local_stdio_options.obj)
+       MSVCRTD.lib(denormal_control.obj)
+       MSVCRTD.lib(env_mode.obj)
+       MSVCRTD.lib(file_mode.obj)
+       MSVCRTD.lib(fltused.obj)
+       MSVCRTD.lib(invalid_parameter_handler.obj)
+       MSVCRTD.lib(matherr.obj)
+       MSVCRTD.lib(new_mode.obj)
+       MSVCRTD.lib(thread_locale.obj)
+       MSVCRTD.lib(tncleanup.obj)
+       MSVCRTD.lib(exe_winmain.obj)
+       MSVCRTD.lib(initializers.obj)
+       MSVCRTD.lib(utility.obj)
+       MSVCRTD.lib(ucrt_stubs.obj)
+       MSVCRTD.lib(utility_desktop.obj)
+       MSVCRTD.lib(initsect.obj)
+       MSVCRTD.lib(default_precision.obj)
+       MSVCRTD.lib(x86_exception_filter.obj)
+       MSVCMRTD.LIB(msilexit.obj)
+       MSVCMRTD.LIB(mstartup.obj)
+       MSVCMRTD.LIB(pureMSILcode.obj)
+       MSVCMRTD.LIB(managdeh.obj)
+       MSCOREE.lib(mscoree.dll)
+       MSCOREE.lib(mscoree.dll)
+       MSCOREE.lib(mscoree.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+  2-ой проход завершен
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1087,5): error MSB6003: Не удалось запустить указанный исполняемый файл задачи "link.exe". System.IO.IOException: Процесс не может получить доступ к файлу "C:\Users\terex\OneDrive\Документы\Курсовая1\Debug\Курсовая1.tlog\link.15892.read.1.tlog", так как этот файл используется другим процессом.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1087,5): error MSB6003:    в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1087,5): error MSB6003:    в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1087,5): error MSB6003:    в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1087,5): error MSB6003:    в System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1087,5): error MSB6003:    в System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1087,5): error MSB6003:    в System.IO.File.InternalWriteAllText(String path, String contents, Encoding encoding, Boolean checkHost)
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1087,5): error MSB6003:    в Microsoft.Build.Utilities.CanonicalTrackedInputFiles.SaveTlog(DependencyFilter includeInTLog)
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1087,5): error MSB6003:    в Microsoft.Build.CPPTasks.TrackedVCToolTask.PostExecuteTool(Int32 exitCode)
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1087,5): error MSB6003:    в Microsoft.Build.CPPTasks.TrackedVCToolTask.ExecuteTool(String pathToTool, String responseFileCommands, String commandLineCommands)
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1087,5): error MSB6003:    в Microsoft.Build.Utilities.ToolTask.Execute()
